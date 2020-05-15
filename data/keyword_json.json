@@ -1,0 +1,161 @@
+{
+      "behavior_like_increased_mobility": [
+            "movement",
+            "mobile",
+            "movable",
+            "movability",
+            "portable",
+            "portability",
+            "movable",
+            "moveableness",
+            "transportable",
+            "transportability"
+      ],
+      "panic_buying": [
+            "frenzy",
+            "shopping",
+            "ordering",
+            "procuring"
+      ],
+      "Anti_vaccine_sentiment": [
+            "anti-vaxxers",
+            "anti vaxxers",
+            "anti-vaccinationist",
+            "anti vaccination",
+            "anti-vax"
+      ],
+      "country": [
+            "state",
+            "republic",
+            "sovereignty",
+            "land",
+            "natinal",
+            "nation",
+            "nationality",
+            "nationhood"
+      ],
+      "political_impact": [
+            "political-nuances",
+            "political-contact",
+            "political-backlash",
+            "political-percussion"
+      ],
+      "medicinal_recommendations": [
+            "medical-guidelines",
+            "instruction",
+            "blessing",
+            "certificate",
+            "commendation",
+            "direction",
+            "research",
+            "development"
+      ],
+      "Communal_Impact": [
+            "Coronajihad",
+            "humanbombs",
+            "No-muslims ",
+            "muslim-community",
+            "Chinese-virus",
+            "Wuhan-virus"
+      ],
+      "Drug/Chemical_cures": [
+            "Drinking-bleach",
+            "Drinking-disinfectant",
+            "Drinking-clorox",
+            "FDA-approved-Remdesvir",
+            "Azithromycin-and-hydroxychloroquin",
+            "Gamechangers",
+            "Chloroquin",
+            "lifesavers",
+            "vaccine",
+            "Covid-Organics(CVO)",
+            "Miracle-Mineral-Solution-(MMS)"
+      ],
+      "religious_practices": [
+            "religious",
+            "norm"
+      ],
+      "Evoking_Fear": [
+            "panic-buying",
+            "dead",
+            "terror",
+            "terrorize",
+            "killed",
+            "kill",
+            "public-shaming",
+            "confusion",
+            "dread"
+      ],
+      "fear": [
+            "angst",
+            "anxiety",
+            "concern",
+            "despair",
+            "confusion",
+            "doubt",
+            "dread",
+            "horror",
+            "jitters",
+            "panic",
+            "scare",
+            "suspicion",
+            "terror",
+            "unease",
+            "uneasiness"
+      ],
+      "communal_violence": [
+            "communal-disarray",
+            "racist",
+            "racism",
+            "assault",
+            "attack",
+            "bloodshed",
+            "brutality",
+            "clash",
+            "confusion",
+            "cruelty",
+            "disorder",
+            "disturbance",
+            "fighting"
+      ],
+      "Economic_impact": [
+            "Lay-offs",
+            "Fired",
+            "lay-off",
+            "lay-off",
+            "Global-recession",
+            "recession",
+            "depression",
+            "repayment-issue",
+            "economic-crisis",
+            "financial-crash",
+            "financial-meltdown",
+            "economic-downturn",
+            "economic-recession",
+            "economic-turmoil",
+            "economic-decline",
+            "economic-crises",
+            "economic-meltdown",
+            "financial-turmoil",
+            "financial-contagion",
+            "financial-crises",
+            "fiscal-crisis",
+            "financial-situation",
+            "credit-crunch",
+            "recession-2008",
+            "housing-loan",
+            "financial-meltdown",
+            "market-cash",
+            "currency-market",
+            "money-market",
+            "financial-market",
+            "open-market",
+            "capital-markets",
+            "money-markets",
+            "foreign-exchange-market",
+            "capital-market"
+      ],
+      "stigma": [
+            "blame"
+      ]
+}
